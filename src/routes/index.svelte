@@ -123,9 +123,9 @@
       <h2 id="channel-moderation">Channel moderation</h2>
     </PermaLink>
     <p>
-      Since anyone can technically become an IRC operator on Pissnet, channel statuses becomes
-      almost useless in moderation. So, let's assume that all channels are open to everyone and not
-      owned by anyone
+      Since anyone can technically become an IRC operator on Pissnet, channel statuses become almost
+      useless in moderation. So, let's assume that all channels are open to everyone and not owned
+      by anyone
     </p>
   </div>
   <div class="topic">
