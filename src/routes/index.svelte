@@ -130,6 +130,21 @@
   </div>
   <div class="topic">
     <PermaLink>
+      <h2 id="other-information">Other information</h2>
+    </PermaLink>
+    <div>
+      <PermaLink>
+        <h3 id="ssl-fingerprint-sha-256">SSL fingerprint (SHA-256)</h3>
+      </PermaLink>
+      <p class="wrap-anywhere">
+        <span class="wrap-anywhere"
+          >85d020fba7c75d8848ecacfb4622d9ae21011456af6f7bef0ea5330ba5834d58</span
+        >
+      </p>
+    </div>
+  </div>
+  <div class="topic">
+    <PermaLink>
       <h2 id="who-am-i">Who am I?</h2>
     </PermaLink>
     <p>
@@ -260,5 +275,9 @@
 
   .topic p :global(svg) {
     vertical-align: bottom;
+  }
+
+  .wrap-anywhere {
+    overflow-wrap: anywhere;
   }
 </style>
