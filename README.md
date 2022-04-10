@@ -1,3 +1,3 @@
-# HNSIRC page
+# Proof of Cringe protocol
 
-HNSIRC webpage at hnsirc/
+[proofofcringe/](http://proofofcringe/)

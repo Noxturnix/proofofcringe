@@ -1,7 +1,3 @@
-<script lang="ts">
-  import "$lib/IbmPlexMonoFont.css";
-</script>
-
 <div class="keep-center">
   <div class="maxw">
     <slot />
@@ -13,11 +9,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "IBM Plex Mono", monospace;
-  }
-
-  :global(body) {
-    background-color: rgb(225, 225, 225);
+    font-family: sans-serif;
   }
 
   .keep-center {
